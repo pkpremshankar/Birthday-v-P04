@@ -25,5 +25,7 @@ A personalized birthday surprise website created with HTML, featuring a beautifu
 * CSS3
 * JavaScript
 
-## 📌 Author 
-  Premshankar
+## 👤 Author
+
+**Premshankar**
+B.Tech Mechanical Engineering (BPMCE)
